@@ -1,4 +1,0 @@
-module CNIOOpenSSL {
-    umbrella "/Users/alfianlosari/Documents/hacking-with-swift-vapor/vapor3-todo/.build/checkouts/swift-nio-ssl.git--9066367487595205090/Sources/CNIOOpenSSL/include"
-    export *
-}

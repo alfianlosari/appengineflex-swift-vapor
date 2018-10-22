@@ -1,4 +1,0 @@
-module CNIOSHA1 {
-    umbrella "/Users/alfianlosari/Documents/hacking-with-swift-vapor/vapor3-todo/.build/checkouts/swift-nio.git--8224893374066300234/Sources/CNIOSHA1/include"
-    export *
-}
