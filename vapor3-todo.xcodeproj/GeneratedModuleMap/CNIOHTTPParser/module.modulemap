@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella "/Users/alfianlosari/Documents/hacking-with-swift-vapor/vapor3-todo/.build/checkouts/swift-nio.git--8224893374066300234/Sources/CNIOHTTPParser/include"
+    export *
+}

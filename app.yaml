@@ -1,0 +1,14 @@
+runtime: custom
+env: flex
+manual_scaling:
+  instances: 1
+skip_files:
+- ^(.*/)?\.xcodeproj
+- ^(.*/)?\.build
+env_variables:
+  MYSQL_USER:  [USERNAME]
+  MYSQL_PASSWORD: [PASSWORD]
+  MYSQL_DATABASE: [DATABASE_NAME]
+  MYSQL_IP: [IP_ADDRESS]
+beta_settings:
+  cloud_sql_instances: [SQL_INSTANCE_NAME]

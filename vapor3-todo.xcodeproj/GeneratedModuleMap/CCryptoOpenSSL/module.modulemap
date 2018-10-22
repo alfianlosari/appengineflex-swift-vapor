@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/alfianlosari/Documents/hacking-with-swift-vapor/vapor3-todo/.build/checkouts/crypto.git-1638356346389053070/Sources/CCryptoOpenSSL/include"
+    export *
+}
