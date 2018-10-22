@@ -11,6 +11,7 @@ Swift Vapor Todo CRUD API using MySQL to store data. It Provides app engine app.
 ## Try it out Locally
 1. Clone the app to your local machine
 2. Install MySQL locally
+3. Create MySQL user and password, create database called todo
 3. Set Environment Variable for MySQL located in routes.swift in your local environment
 4. Build and Run the app locally
 5. Test CRUD using CURL
